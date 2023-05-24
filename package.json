@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "lerna run start --parallel",
+    "test": "lerna run test --parallel"
+  }
+}
